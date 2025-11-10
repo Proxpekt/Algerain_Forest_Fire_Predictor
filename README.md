@@ -67,11 +67,11 @@ This is formulated as a **Supervised Regression Problem**.
 ---
 
 ## 📁 Repository Structure
-│
-├── data_cleaner.ipynb # Data loading, cleaning, and EDA
-├── model_training.ipynb # Model implementation, training, and evaluation
-├── CLEANED_Algerian_forest_fires_dataset_.csv # Cleaned dataset used for model training
-└── README.md # Project documentation
+│  <br>
+├── data_cleaner.ipynb # Data loading, cleaning, and EDA  <br>
+├── model_training.ipynb # Model implementation, training, and evaluation  <br>
+├── CLEANED_Algerian_forest_fires_dataset_.csv # Cleaned dataset used for model training  <br>
+└── README.md # Project documentation  <br>
 
 
 ---
